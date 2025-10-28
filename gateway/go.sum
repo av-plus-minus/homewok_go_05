@@ -1,6 +1,6 @@
-github.com/av-plus-minus/homewok_go_04/ledger v0.0.0-20251019220543-75d89fd04eeb h1:EbzayDSlCUXrDBYFvAt0MR7k+P7zk20C5Qrtcpilx6w=
-github.com/av-plus-minus/homewok_go_04/ledger v0.0.0-20251019220543-75d89fd04eeb/go.mod h1:cLIi62Hfx93PqjRI0lfsckjiRq8nmY7YgJ31OXf5JzI=
 github.com/coreos/go-systemd/v22 v22.5.0/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSVTIJ3seZv2GcEnc=
+github.com/go-chi/chi/v5 v5.2.3 h1:WQIt9uxdsAbgIYgid+BpYc+liqQZGMHRaUwp0JUcvdE=
+github.com/go-chi/chi/v5 v5.2.3/go.mod h1:L2yAIGWB3H+phAw1NxKwWM+7eUH/lU8pOMm5hHcoops=
 github.com/godbus/dbus/v5 v5.0.4/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
 github.com/mattn/go-colorable v0.1.13/go.mod h1:7S9/ev0klgBDR4GtXTXX8a3vIGJpMovkB8vQcUbaXHg=
 github.com/mattn/go-colorable v0.1.14 h1:9A9LHSqF/7dyVVX6g0U9cwm9pG3kP9gSzcuIPHPsaIE=

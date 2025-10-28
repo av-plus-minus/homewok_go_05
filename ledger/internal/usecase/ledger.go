@@ -3,7 +3,7 @@ package usecase
 import (
 	"errors"
 
-	"github.com/av-plus-minus/homewok_go_04/ledger/internal/domain"
+	"github.com/av-plus-minus/homewok_go_05/ledger/internal/domain"
 	"github.com/rs/zerolog/log"
 )
 
