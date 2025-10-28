@@ -1,0 +1,8 @@
+.git
+.idea
+.env
+
+
+# Go workspace files
+go.work
+go.work.sum
